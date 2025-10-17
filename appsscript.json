@@ -1,0 +1,8 @@
+{
+  "timeZone": "America/Argentina/Buenos_Aires",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": ["https://www.googleapis.com/auth/blogger", "https://www.googleapis.com/auth/script.external_request", "https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/documents", "https://www.googleapis.com/auth/drive"],
+  "runtimeVersion": "V8"
+}
